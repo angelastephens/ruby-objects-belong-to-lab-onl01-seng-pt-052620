@@ -6,4 +6,8 @@ class Post
     @author=author
   end
   
+  def name
+    @name=name
+  end
+  
 end
